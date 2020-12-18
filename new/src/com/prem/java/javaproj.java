@@ -7,5 +7,7 @@ public class javaproj {
 		System.out.println("3rd commit");
 		System.out.println("4th commit done");
 		System.out.println("new commit");
+		System.out.println("commit from teamate");
 	}
+	
 }
